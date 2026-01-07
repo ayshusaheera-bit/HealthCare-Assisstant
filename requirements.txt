@@ -1,0 +1,10 @@
+librosa
+noisereduce
+scipy
+numpy
+sounddevice
+openai-whisper
+torch
+rapidfuzz
+google-generativeai
+python-dotenv
